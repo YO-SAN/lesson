@@ -2,3 +2,5 @@ Hello!
 Good morning!
 git commit --amend
 git merge
+conflict
+VVVVVVVV
